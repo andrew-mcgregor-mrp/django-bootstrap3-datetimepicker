@@ -2,7 +2,7 @@
 
 This package uses [Bootstrap v3 datetimepicker widget version 4](https://github.com/Eonasdan/bootstrap-datetimepicker).
 
-This project was originally a fork of https://github.com/nkunihiko/django-bootstrap3-datetimepicker, 
+This project was originally a fork of tutorcruncher/django-bootstrap3-datetimepicker, 
 it now has the following breaking changes:
 
 * Modified to work properly with Django 1.11 (didn't take into account previous versions)
@@ -14,7 +14,7 @@ it now has the following breaking changes:
 
 ## Install
 
-    pip install django-bootstrap3-datetimepicker-2
+    pip install django-bootstrap3-datetimepicker-3
 
 ## Example
 
@@ -69,7 +69,7 @@ draw out your HTML manually.
 ## Requirements
 
 * Python >= 2.7
-* Django >= 1.8
+* Django >= 1.11
 * Bootstrap == 3.X
 * Moment >= 2.10.6
 * bootstrap-datetimepicker >= 4.15.35
