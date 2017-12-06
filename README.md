@@ -5,7 +5,7 @@ This package uses [Bootstrap v3 datetimepicker widget version 4](https://github.
 This project was originally a fork of tutorcruncher/django-bootstrap3-datetimepicker, 
 it now has the following breaking changes:
 
-* Modified to work properly with Django 1.11 (didn't take into account previous versions)
+* Modified to work properly with Django 2.0 (didn't take into account previous versions)
 * js/css files are no longer included in the project, managing them is up to the user, eg. using 
 [grablib](https://github.com/samuelcolvin/grablib).
 * the widget no longer has js/css assets. these are left for you to deploy as you wish.
